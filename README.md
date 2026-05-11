@@ -1,7 +1,3 @@
-
-SWEN 230: Final Project - Param Dhaliwal 
-================================================================
-
 ## Music Recommender
 
 1. **Input**: Users provide the names of three artists they enjoy listening to.
